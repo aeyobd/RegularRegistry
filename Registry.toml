@@ -3,3 +3,4 @@ uuid = "652f5ff9-c646-421d-ab62-7f2a7322f5fc"
 repo = "git@github.com:aeyobd/RegularRegistry.git"
 
 [packages]
+415bc928-4679-4905-9aff-233f9524af88 = { name = "Arya", path = "A/Arya" }
