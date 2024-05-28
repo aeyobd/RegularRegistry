@@ -1,0 +1,5 @@
+name = "RegularRegistry"
+uuid = "652f5ff9-c646-421d-ab62-7f2a7322f5fc"
+repo = "git@github.com:aeyobd/RegularRegistry.git"
+
+[packages]
