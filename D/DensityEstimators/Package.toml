@@ -1,0 +1,3 @@
+name = "DensityEstimators"
+uuid = "6a64a12f-920b-4cea-9d97-f6c2170ce0ee"
+repo = "git@github.com:aeyobd/DensityEstimators.jl.git"
