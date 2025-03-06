@@ -2,7 +2,7 @@
 Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
 StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
 
-["0-0.1.0"]
+["0 - 0.1.0"]
 LaTeXStrings = "b964fa9f-0449-5b57-a5c2-d3ea65f4040f"
 Measurements = "eff96d63-e80a-5855-80a2-b1b0885c5ab7"
 PhysicalConstants = "5ad8b20f-a522-5ce9-bfc9-ddf1d5bda6ab"
@@ -10,25 +10,25 @@ Requires = "ae029012-a4dd-5104-9daa-d747884805df"
 Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
 UnitfulAstro = "6112ee07-acf9-5e0f-b108-d242c714bf9f"
 
-["0-0.1.1"]
+["0 - 0.1.1"]
 Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
 
-["0.1.1-0"]
+["0.1.1 - 0"]
 DocStringExtensions = "ffbed154-4ef7-542d-bbb7-c09d3a79fcae"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
-["0.1.1-0.1.6"]
+["0.1.1 - 0.1.6"]
 NearestNeighbors = "b8a86587-4115-5ab1-83bc-aa920d37bbce"
 QuadGK = "1fd47b50-473d-5c70-9696-f719f8f3bcdc"
 SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
 
-["0.1.2-0"]
+["0.1.2 - 0"]
 MakieCore = "20f20a25-4f0e-4fdf-b5d1-57303727442b"
 
-["0.1.6-0"]
+["0.1.6 - 0"]
 ColorSchemeTools = "d3e213a1-5e82-5c18-bb32-2a58a99f8c46"
 Colors = "5ae59095-9a9b-59fe-a467-6f913c188581"
 TOML = "fa267f1f-6049-4f14-aa54-33bafae1ed76"
 
-["0.1.8-0"]
+["0.1.8 - 0"]
 DensityEstimators = "6a64a12f-920b-4cea-9d97-f6c2170ce0ee"
