@@ -1,0 +1,4 @@
+[0]
+DataFrames = "1.7.0 - 1"
+OrderedCollections = "1.8.0 - 1"
+PythonCall = "0.9.24 - 0.9"

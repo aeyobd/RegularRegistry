@@ -1,0 +1,3 @@
+name = "PyFITS"
+uuid = "8bc99c6c-7bfa-45ed-8c8b-4447c0025491"
+repo = "git@github.com:aeyobd/PyFITS.jl"
